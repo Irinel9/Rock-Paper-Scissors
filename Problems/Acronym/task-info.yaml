@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# read test.txt'
+  learner_created: false
+- name: test.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8146#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 12 Jan 2021 03:09:39 UTC
+record: -1

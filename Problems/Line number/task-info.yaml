@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# read sample.txt and print the number of lines'
+  learner_created: false
+- name: stars.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8144#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 04 Jan 2021 11:25:45 UTC
+record: -1

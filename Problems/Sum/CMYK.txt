@@ -1,0 +1,4 @@
+cyanmagentayellowkey colorcyan
+magenta
+yellow
+key color

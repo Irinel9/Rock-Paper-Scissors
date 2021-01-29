@@ -1,0 +1,3 @@
+Cipri 100
+Sebi 200
+Ira 100
